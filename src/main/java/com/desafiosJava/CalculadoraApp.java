@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class CalculadoraApp {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // Objeto Scanner para entrada de dados
+        Scanner scanner = new Scanner(System.in); // Objeto Scanner para entrada de dados in é de input pq o scanner vai le oq o usuario colocou
 
         Double valorUm;
         Double valorDois;
